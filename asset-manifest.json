@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/gameidocean/static/css/main.adb77833.css",
+    "main.js": "/gameidocean/static/js/main.9d028997.js",
+    "static/media/bodyYellow.png": "/gameidocean/static/media/bodyYellow.c0402bc775a7c2ffc23e.png",
+    "static/media/Random-Image4.png": "/gameidocean/static/media/Random-Image4.89abfa6eaf0877447810.png",
+    "static/media/bodyGreen.png": "/gameidocean/static/media/bodyGreen.76bea5a20212257e8e72.png",
+    "static/media/bodyGrey.png": "/gameidocean/static/media/bodyGrey.740d5b792180cf552836.png",
+    "static/media/bodyBlue.png": "/gameidocean/static/media/bodyBlue.6bfa5f5fd3ff93149cb5.png",
+    "static/media/bodyBrown.png": "/gameidocean/static/media/bodyBrown.2b098a34a2eb355ea33e.png",
+    "static/media/Random-Image5.png": "/gameidocean/static/media/Random-Image5.0ce175824eca7e824171.png",
+    "static/media/Random-Image7.png": "/gameidocean/static/media/Random-Image7.a07510847d0bc04b8201.png",
+    "static/media/Random-Image9.png": "/gameidocean/static/media/Random-Image9.3b797245ea097ae1a3d5.png",
+    "static/media/rac.jpg": "/gameidocean/static/media/rac.71fcb9fac95867b974d7.jpg",
+    "static/media/Random-Image1.png": "/gameidocean/static/media/Random-Image1.a44a912feaa7f4085ecd.png",
+    "static/media/Random-Image11.png": "/gameidocean/static/media/Random-Image11.2e78149bd9f2d700f48e.png",
+    "static/media/Random-Image6.png": "/gameidocean/static/media/Random-Image6.be037128926c7f8cbf4b.png",
+    "static/media/Random-Image12.png": "/gameidocean/static/media/Random-Image12.57f74df30bb10ba5acec.png",
+    "static/media/Random-Image13.png": "/gameidocean/static/media/Random-Image13.a249d5c690dcb6c986ac.png",
+    "static/media/Random-Image14.png": "/gameidocean/static/media/Random-Image14.7495dff0f298ea461545.png",
+    "static/media/Random-Image8.png": "/gameidocean/static/media/Random-Image8.dd74dd4218796511abb9.png",
+    "static/media/Random-Image15.png": "/gameidocean/static/media/Random-Image15.bdc5d517807decc261ab.png",
+    "static/media/Random-Image17.png": "/gameidocean/static/media/Random-Image17.7c12b32e2afa903f7e65.png",
+    "static/media/Random-Image.png": "/gameidocean/static/media/Random-Image.f3645626a6f7b5ea9092.png",
+    "static/media/Random-Image10.png": "/gameidocean/static/media/Random-Image10.b17ae5d5539aacb42fe1.png",
+    "static/media/Random-Image2.png": "/gameidocean/static/media/Random-Image2.d4ac96a678cd2889b970.png",
+    "static/media/Random-Image3.png": "/gameidocean/static/media/Random-Image3.b0699f1177c15fe138b0.png",
+    "static/media/Number2.png": "/gameidocean/static/media/Number2.3b0733509a3854eb035a.png",
+    "static/media/Number1.png": "/gameidocean/static/media/Number1.9524827443ef2afc813a.png",
+    "static/media/Number3.png": "/gameidocean/static/media/Number3.61e11f273dab9d747ba9.png",
+    "static/media/Random-Image16.png": "/gameidocean/static/media/Random-Image16.f763b07095eab2aa8e67.png",
+    "static/media/grey.png": "/gameidocean/static/media/grey.5898adcb16765ed49bfc.png",
+    "static/media/brown.png": "/gameidocean/static/media/brown.fec18c079d99d718a09f.png",
+    "index.html": "/gameidocean/index.html",
+    "main.adb77833.css.map": "/gameidocean/static/css/main.adb77833.css.map",
+    "main.9d028997.js.map": "/gameidocean/static/js/main.9d028997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adb77833.css",
+    "static/js/main.9d028997.js"
+  ]
+}
